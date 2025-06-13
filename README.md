@@ -1,2 +1,2 @@
-# VAE-GMM
-Variational Autoencoder with Gaussian Mixture prior for Clustering 
+# GM-VAE
+Variational Autoencoder with Gaussian Mixture prior for Clustering  
